@@ -11,12 +11,12 @@
     "AdmobAppID":"ca-app-pub-3940256099942544~3347511713",
     "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
     "AdmobReward":"xxxxxxxxxxx",
-    "MintegralAppID":"392940",
+    "MintegralAppID":"392944",
     "MintegralAppKey":"58ff183361b401b851b26e5bdb86a753",
-    "MintegralInterstitialUnitID":"4701979",
-    "MintegralInterstitialPlacementID":"2572492",
-    "MintegralRewardUnitID":"4701977",
-    "MintegralRewardPlacementID":"2572490"
+    "MintegralInterstitialUnitID":"4702013",
+    "MintegralInterstitialPlacementID":"2572502",
+    "MintegralRewardUnitID":"4702011",
+    "MintegralRewardPlacementID":"2572500"
     },
   "MoreApps":[
       {
